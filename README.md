@@ -5,6 +5,12 @@
 
 <h3>Constantly learning to be a developer </h3>
 
+### About me
+
+- I'm from Chile, I live in Valparaiso
+- I am fullstack java developer
+- I'm more of a backend developer than a frontend developer.
+
 
 
 
