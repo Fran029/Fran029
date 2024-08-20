@@ -1,9 +1,10 @@
-## Hi!  I'm Francisca Robles 👋
+## Hi!  I'm Francisca Robles 👋 <img src="![image](https://github.com/user-attachments/assets/f3d243ff-4ff9-471e-9868-7e8f23d9a874)" widht="300px">
 
-Constantly learning to be a developer
-''''
-https://preview.redd.it/exhausted-cat-developer-v0-kaepljx1y93a1.jpg?width=640&crop=smart&auto=webp&s=fcc47d300bbbe914b596f511dfb642a35f09f22f
-''''
+
+<h3>Constantly learning to be a developer </h3>
+
+
+
 
 <!--
 **Fran029/Fran029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
