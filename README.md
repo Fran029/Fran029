@@ -1,6 +1,6 @@
 ## Hi!  I'm Francisca Robles 👋 
 
-<h2><img src="![image](https://github.com/user-attachments/assets/f3d243ff-4ff9-471e-9868-7e8f23d9a874)" widht="300px"> </h2>
+<h2> <img src="![image](https://github.com/user-attachments/assets/f3d243ff-4ff9-471e-9868-7e8f23d9a874)" widht="300px"> </h2>
 
 <h3>Constantly learning to be a developer </h3>
 
