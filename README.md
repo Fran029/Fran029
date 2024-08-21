@@ -18,6 +18,8 @@
 - I am fullstack java developer
 - I'm more of a backend developer than a frontend developer.
 
+   :link: Connect with me in LinkedIn --> <a href="https://www.linkedin.com/in/francisca-robles-campano-4a117b261/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/Dhamary08/Email-Sign/master/linkedin-in.png" alt="linkedin" height="30" width="25"/></a>
+
 
 <div style="display:inline; width:100%" align="left">
  <h2>Skills</h2>
