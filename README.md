@@ -35,13 +35,14 @@
     <img src="https://cdn.worldvectorlogo.com/logos/intellij-idea-1.svg" alt="intelliJ"height="40" width="52">
 
     ### ✅ QA & Testing  
+  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/cucumber.png" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/automation.png" width="40" height="40"/> <!-- QA automation genérico -->
-  <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-api-api-flaticons-lineal-color-flat-icons.png" width="40" height="40"/> <!-- API testing -->
-  <img src="https://jmeter.apache.org/images/jmeter.png" width="40" height="40"/> <!-- JMeter -->
-</p>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="40" height="40"/>
+</p>
 
 
 <!--
